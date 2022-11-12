@@ -1,0 +1,2 @@
+Aprender mais sobre Git e Github foi essencial para entender melhor sobre o versionamento de arquivos, que embora seja mais utilizado no desenvolvimento de
+aplicações o controle de versões pode ser utilizado em diversas outras funções, assim como anotações gerais como essa.
